@@ -1,2 +1,2 @@
 # Parser
-Parser of sites
+install requests and beautifulsoup4 libs before using
